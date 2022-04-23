@@ -1,0 +1,13 @@
+{
+  "name": "youtube-laith-harb-jest-crash-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "jest": "^27.5.1"
+  }
+}
